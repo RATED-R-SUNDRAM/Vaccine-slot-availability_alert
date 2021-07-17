@@ -1,7 +1,5 @@
-# Vaccine-slot-availability_alert
+# co-bo
 
-## This is website which is used to alert the users who have registerd with their email and area code about the availabity of covid vaccine in their area.
+## COVID VACCINE SLOTs AVIALIIBILTY ALERT GENEREATING APP
 
-
-#                             **HOW TO USE**
-## 
+### WITH THE ENTERED DISTRICT CODE , AGE , VACCINE TYPE THE BOT WILL MESSAGE THE USER ON THEIR EMAIL AND PHONE REGARDING THE AVAILABILITY
